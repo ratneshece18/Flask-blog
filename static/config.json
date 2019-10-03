@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/blogger",
+    "prod_uri": "mysql://root:@localhost/blogger",
+    "fb_url": "https://www.facebook.com/blogger",
+    "tw_url": "https://www.twitter.com/blogger",
+    "gh_url": "https://www.github.com/blogger",
+    "title_url": "My App",
+    "copyright_url": "Copyright 2019. All Rights Reserved.",
+    "username": "ratneshece18@gmail.com",
+    "password": "******",
+    "about_text": "Hi, My name is Ratnesh and I am a software programmer. I love coding with Python and I have developed this website with Python flask.",
+    "no_of_posts": 20,
+    "login_image": "login.svg",
+    "admin_user": "admin",
+    "admin_password": "password",
+    "upload_location": "C:\\Users\\ratnesh-kumar\\Downloads\\My Projects\\My Backup\\Flask-tut\\static\\img"
+
+
+  }
+
+}
